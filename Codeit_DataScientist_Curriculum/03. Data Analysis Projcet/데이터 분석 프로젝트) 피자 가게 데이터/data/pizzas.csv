@@ -1,0 +1,40 @@
+pizza_id,pizza_name,size,price
+bbq_ckn_s,바비큐 치킨 피자,S,11300
+bbq_ckn_m,바비큐 치킨 피자,M,22000
+bbq_ckn_l,바비큐 치킨 피자,L,34000
+thai_ckn_s,타이 치킨 피자,S,12300
+thai_ckn_m,타이 치킨 피자,M,24000
+thai_ckn_l,타이 치킨 피자,L,36800
+big_meat_s,빅 미트 피자,S,11300
+big_meat_m,빅 미트 피자,M,22000
+big_meat_l,빅 미트 피자,L,34000
+classic_dlx_s,클래식 디럭스 피자,S,10800
+classic_dlx_m,클래식 디럭스 피자,M,20300
+classic_dlx_l,클래식 디럭스 피자,L,32300
+hawaiian_s,하와이안 피자,S,11000
+hawaiian_m,하와이안 피자,M,21800
+hawaiian_l,하와이안 피자,L,33800
+pepperoni_s,페퍼로니 피자,S,9300
+pepperoni_m,페퍼로니 피자,M,18300
+pepperoni_l,페퍼로니 피자,L,28300
+super_supreme_s,슈퍼 슈프림 피자,S,10800
+super_supreme_m,슈퍼 슈프림 피자,M,20300
+super_supreme_l,슈퍼 슈프림 피자,L,32300
+bulgogi_s,불고기 피자,S,10800
+bulgogi_m,불고기 피자,M,20300
+bulgogi_l,불고기 피자,L,32300
+prsc_rucola_s,프로슈토 루꼴라 피자,S,11000
+prsc_rucola_m,프로슈토 루꼴라 피자,M,21800
+prsc_rucola_l,프로슈토 루꼴라 피자,L,33800
+potato_s,포테이토 피자,S,11000
+potato_m,포테이토 피자,M,21800
+potato_l,포테이토 피자,L,33800
+five_cheese_s,파이브 치즈 피자,S,9800
+five_cheese_m,파이브 치즈 피자,M,19300
+five_cheese_l,파이브 치즈 피자,L,31000
+green_garden_s,그린 가든 피자,S,11000
+green_garden_m,그린 가든 피자,M,21800
+green_garden_l,그린 가든 피자,L,33800
+spin_pesto_s,시금치 페스토 피자,S,13800
+spin_pesto_m,시금치 페스토 피자,M,25800
+spin_pesto_l,시금치 페스토 피자,L,38800
